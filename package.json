@@ -305,7 +305,8 @@
         "node_modules/sharp"
       ],
       "target": [
-        "deb"
+        "deb",
+        "AppImage"
       ],
       "icon": "build/icons/png"
     },
